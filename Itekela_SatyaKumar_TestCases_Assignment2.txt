@@ -1,0 +1,27 @@
+/***** Author: Satya Kumar Itekela, Banner ID: B00839907 ****/
+
+Assignment 2
+------------
+Problem 1
+---------
+
+Test Cases
+----------
+
+Recommend
+		-	Provide a null ArrayList to the method
+		-	Provide a empty ArrayList to the method
+		-	Provide a single item in the list
+		-	Provide a list with one element from each of the previous order
+		-	Provide a list with two elements that are atleast from 2 previous orders
+		-	Provide a list with exactly same elements that are from one purchased order
+		-	Provide a list with exactly same elements that are in two or more different orders
+		-	Provide a list with more number of elements that are previously ordered in one order
+		-	Provide a list with elements that does not match in any of previous orders
+		-	Provide a list with single element which is same as the previously ordered with only one element
+		-	Provide a list which matches only one row that contains less than 5 elements
+		-	File with no previously ordered list in it
+		-	File with only one line
+		-	File with only single item in each line
+		-	File with many lines that matches present order
+		-	File with data that matches atleast two lines
